@@ -2,7 +2,7 @@
     "name":"composertest/liu",
     "description":"just make a composer package for test",
     "require":{
-        "php":"^7.*"
-    }
+        "php":"7.*"
+    },
     "license":"MIT"
 }
