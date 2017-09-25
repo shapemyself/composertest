@@ -14,4 +14,8 @@ class SayHi{
     public function sayhi() {
         echo sprintf("my name is %s, I'm from %s, welcome to beijing\n", $this->name, $this->from);
     }
+
+    public function sayGood() {
+        echo "you are very good\n";
+    }
 }
